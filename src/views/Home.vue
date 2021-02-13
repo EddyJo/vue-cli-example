@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>This is Home Page</h1>
-    <Eddy></Eddy>
+    <Eddy  title="Home Title" nickname="메롱"/>
   </div>
 </template>
 
